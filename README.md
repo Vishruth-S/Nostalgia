@@ -1,4 +1,8 @@
 # Nostalgia
-C++ Movie booking project done during high school
+C++ Projects during High School
 
-This project was programmed in Borland C++ using TurboC++ compiler and won't work with gcc compilers.
+1) Quiz App: A simple Quiz game.      
+2) Book_My_Movie: An interface for users to book movies. Includes features like create account,login,admin login and more
+(Check project report for outputs)
+
+These projects were programmed in Borland C++ using TurboC++ compiler and won't work with gcc compilers.
